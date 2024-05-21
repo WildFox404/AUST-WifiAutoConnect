@@ -1,0 +1,5 @@
+运营商:联通
+账号:123
+密码:123
+cookie:12e9gkv2ves20va0bg0ctnojud
+路径:D:/python.learn/python爬虫/校园网自动登录/卸载exe
